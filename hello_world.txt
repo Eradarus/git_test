@@ -1,2 +1,3 @@
 This part is difficult because I am unsure how to open a my file in a text editor using the command line.
 going over the lesson again to figure some things out.
+third attempt at adding a commit message using the vsc text editor
